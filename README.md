@@ -4,6 +4,8 @@ New tips are posted on [LinkedIn](https://www.linkedin.com/in/justmarkham/), [Tw
 
 👉 [Sign up to receive 5 tips by email every week](https://scikit-learn.tips) 👈
 
+**P.S.** I'm teaching a **Machine Learning course** starting April 22. [Learn more and enroll today!](https://gumroad.com/l/ML-course?variant=Live%20Course%20%2B%20Advanced%20Course%20%3D%20%24129) 🎓
+
 ## List of all tips
 
 Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter notebook** for a tip, or click <img src="icons/in.svg" width="20px" align="top"> to discuss the tip on **LinkedIn:**
@@ -33,6 +35,10 @@ Click <img src="icons/nb.svg" width="20px" align="top"> to view the **Jupyter no
 21 | Compare multiple ROC curves in a single plot | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6655489426082316288-yVzb/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="notebooks/21_plot_roc_curve.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
 22 | Use the correct methods for each type of `Pipeline` | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6655822391479980033-KUqD/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a>
 23 | Display the intercept and coefficients for a linear model | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6656171291986456576-4vSf/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="notebooks/23_linear_model_coefficients.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
+24 | Visualize a decision tree two different ways | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6656534743049392128-J7-r/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="notebooks/24_decision_tree_visualization.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
+25 | Prune a decision tree to avoid overfitting | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6656901820478210048-h2IN/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="notebooks/25_decision_tree_pruning.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
+26 | Use stratified sampling with `train_test_split` | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6658009817619185665-hICv/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="notebooks/26_stratified_train_test_split.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
+27 | Two ways to impute missing values for a categorical feature | <a href="https://www.linkedin.com/posts/justmarkham_sklearntips-machinelearning-python-activity-6658368383425347588-tiW-/"><img src="icons/in.svg" width="20px" align="top" title="Discuss"></a> <a href="notebooks/27_impute_categorical_features.ipynb"><img src="icons/nb.svg" width="20px" align="top" title="View code"></a>
 
 You can interact with all of these notebooks online using **Binder:** <a href="https://mybinder.org/v2/gh/justmarkham/scikit-learn-tips/master?filepath=notebooks%2F"><img src="icons/binder.svg" align="top"></a>
 
